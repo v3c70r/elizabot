@@ -1,0 +1,22 @@
+{
+  "name": "elizabot",
+  "main": [ "elizabot.js", "elizadata.js"],
+  "version": "0.0.0",
+  "homepage": "https://github.com/v3c70r/elizabot",
+  "description": "An Eliza bower component",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "eliza",
+    "chatbot"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
